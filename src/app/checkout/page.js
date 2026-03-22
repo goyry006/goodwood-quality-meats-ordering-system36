@@ -1,0 +1,1 @@
+// Checkout form - trigger Stripe session
