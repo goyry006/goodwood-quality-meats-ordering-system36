@@ -1,5 +1,6 @@
 import { stripe } from '@/lib/stripe'
 
+// POST - creates Stripe checkout session
 export async function POST(req) {
   const { priceId } = await req.json()
 
