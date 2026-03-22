@@ -1,0 +1,1 @@
+// Product thumbnail - image, name, price, add to cart
